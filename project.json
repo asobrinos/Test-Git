@@ -1,5 +1,6 @@
 {
   "name": "Test",
+  "projectId": "dda338aa-199e-4038-ba91-94920ae70e23",
   "description": "Test",
   "main": "Main.xaml",
   "dependencies": {
@@ -43,7 +44,8 @@
       "ignoredFiles": []
     },
     "fileInfoCollection": [],
-    "modernBehavior": false
+    "modernBehavior": false,
+    "saveToCloud": false
   },
   "expressionLanguage": "VisualBasic",
   "entryPoints": [
